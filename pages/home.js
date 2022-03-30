@@ -734,7 +734,7 @@ function HomePage() {
               <div className="q-info col-11">
                 <h4 className="q-head">What Service does Wattmonk provide?</h4>
                 <p className="q-para mt-3">
-                  Wattmonk caters to Solar professionals, including EPC's,
+                  Wattmonk caters to Solar professionals, including EPC&apos;s,
                   developers, dealers, and installers, providing everything from
                   customer pitching to PE stamps. These include Prelim Designs
                   (Solar Shade analysis, Sales proposals), Survey features,
@@ -758,7 +758,7 @@ function HomePage() {
             <li className="faq-list-item d-flex">
               <div className="q-info col-11">
                 <h4 className="q-head">
-                  How does Wattmonk solar installer's lives better?
+                  How does Wattmonk solar installer&apos;s lives better?
                 </h4>
                 <p className="q-para mt-3">
                   Wattmonk helps reduce design costs by up to 50%.
