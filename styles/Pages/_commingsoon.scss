@@ -1,0 +1,27 @@
+.commingsoon {
+  height: 100vh;
+  background-image: url(../../public/commingsoon/bg.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  .container {
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    .content {
+      h1 {
+        font-size: 95px;
+        font-weight: bolder;
+        text-transform: uppercase;
+        background-image: url(../../public//commingsoon/text-bg.svg);
+        background-size: cover;
+        background-attachment: fixed;
+        -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+      }
+      button {
+        margin-top: 25px;
+        display: inherit;
+      }
+    }
+  }
+}
