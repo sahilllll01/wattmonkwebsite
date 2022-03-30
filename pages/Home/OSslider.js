@@ -139,7 +139,7 @@ const OSslider = () => {
               An elaborated CAD design developed by highly experienced
               engineers. Our designs are widely accepted across AHJs due to
               exhaustive details on site plan, roof plan and modules, string
-              layout & BOM, electrical line diagram, calculations, signage's and
+              layout & BOM, electrical line diagram, calculations, signage&apos;s and
               equipment specification
             </p>
           </div>
